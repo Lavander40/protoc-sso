@@ -1,4 +1,4 @@
-module protoc
+module github.com/Lavander40/protoc-sso
 
 go 1.21.2
 
